@@ -1,0 +1,31 @@
+
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø èÑýÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø èÑýÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø èÑýÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø èÑýÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÐó¢øÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÇÐ®
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¼¢š
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®£Åàüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îƒÄ¨
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘
+c
+java:S1659
+"HDeclare "first_arr_y" and all following declarations on a separate line.(ø èÑýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ì£Ø×ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(šÉö˜
+@	java:S106"+Replace this use of System.out by a logger.(®Ð†®
+E	java:S106"+Replace this use of System.out by a logger.(³½Èÿúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ž¬Øß
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(¹¥ï¸ûÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(Ý÷Õ·üÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(éÄÒº
+E	java:S1067"+Replace this use of System.out by a logger.(˜¡×Õþÿÿÿÿ
+E	java:S1069"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ

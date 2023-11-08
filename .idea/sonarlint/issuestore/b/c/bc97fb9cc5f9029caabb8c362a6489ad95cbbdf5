@@ -1,0 +1,27 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉâÔûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉâÔûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®£Åàüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±×ãÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Çµí‘
+c
+java:S1659"HDeclare "ToChangeStr" and all following declarations on a separate line.(ÉâÔûÿÿÿÿ
+@	java:S106
+"+Replace this use of System.out by a logger.(™²“õ
+@	java:S106"+Replace this use of System.out by a logger.(†ä‚æ
+E	java:S106"+Replace this use of System.out by a logger.(Õ­›…ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(İªÃĞ
+@	java:S106"+Replace this use of System.out by a logger.(™²“õ
+@	java:S106"+Replace this use of System.out by a logger.(ÌÏ¡ß
+E	java:S106"+Replace this use of System.out by a logger.(µËï«øÿÿÿÿ
+<
+java:S1905"&Remove this unnecessary cast to "int".(ä²ˆä
+@	java:S106"+Replace this use of System.out by a logger.(¿á€‚
+@	java:S106"+Replace this use of System.out by a logger.(ªìá¶
+@	java:S106""+Replace this use of System.out by a logger.(­ıáÒ
+<
+java:S1905("&Remove this unnecessary cast to "int".(É–Ùä
+@	java:S106/"+Replace this use of System.out by a logger.(•ˆå¿
+@	java:S1060"+Replace this use of System.out by a logger.(ªìá¶
+E	java:S1062"+Replace this use of System.out by a logger.(µÃÕşÿÿÿÿ
