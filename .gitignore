@@ -37,3 +37,12 @@ out/
 
 .DS_Store
 /src/main/generated/
+.gradle/7.5.1/checksums/checksums.lock
+.gradle/7.5.1/checksums/sha1-checksums.bin
+.idea/gradle.xml
+.idea/modules/programclass.iml
+.idea/modules/programclass.main.iml
+.idea/modules/programclass.test.iml
+.idea/sonarlint/issuestore/b/5/b511483d4c241c3522ba6db83de785addcf92c14
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/securityhotspotstore/index.pb
